@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @ArturCaldas
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Opa! Sou o Artur, tenho 18 anos e tô mergulhado no mundo da tecnologia.
 
-<!---
-ArturCaldas/ArturCaldas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Estudando Desenvolvimento Web e Cibersegurança (porque proteger e criar é melhor ainda).
+📚 No momento, quebrando a cabeça e se divertindo com JavaScript.
+🚀 Gosto de aprender, explorar novas ideias e botar a mão no código.
+🔐 Código limpo, sites bonitos e segurança em primeiro lugar!
